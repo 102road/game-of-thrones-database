@@ -32,7 +32,7 @@
     "fullName": "Sansa Stark",
     "title": "Lady of Winterfell",
     "family": "House Stark",
-    "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpg"
+    "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpeg"
   },
   {
     "id": "5",
@@ -53,7 +53,7 @@
     "fullName": "Robert Baratheon",
     "title": "Lord of the Seven Kingdoms",
     "family": "House Barathoen",
-    "imageUrl": "https://thronesapi.com/assets/images/robert-baratheon.jpg"
+    "imageUrl": "https://thronesapi.com/assets/images/king-robert.jpg"
   },
   {
     "id": "8",
@@ -68,5 +68,75 @@
     "title": "Lady of Casterly Rock",
     "family": "House Lannister",
     "imageUrl": "https://thronesapi.com/assets/images/cersei.jpg"
+  },
+  {
+    "id": "10",
+    "fullName": "Catelyn Stark",
+    " title": "Lady of Winterfell",
+    "family": "House Stark",
+    "imageUrl": "https://thronesapi.com/assets/images/catelyn-stark.jpg"
+  },
+  {
+    "id": "11",
+    "fullName": "Robb Stark",
+    " title": "King of the North",
+    "family": "House Stark",
+    "imageUrl": "https://thronesapi.com/assets/images/robb-stark.jpg"
+  },
+  {
+    "id": "12",
+    "fullName": "Theon Greyjoy",
+    " title": "Reek",
+    "family": "House Greyjoy",
+    "imageUrl": "https://thronesapi.com/assets/images/theon.jpg"
+  },
+  {
+    "id": "13",
+    "fullName": "Joffrey Baratheon",
+    " title": "Lord of the Seven Kingdoms",
+    "family": "House Barathoen",
+    "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg"
+  },
+  {
+    "id": "14",
+    "fullName": "Tyrion Lannister",
+    " title": "Hand of the Queen",
+    "family": "House Lannister",
+    "imageUrl": "https://thronesapi.com/assets/images/tyrion-lannister.jpg"
+  },
+  {
+    "id": "15",
+    "fullName": "Sandor Clegane",
+    " title": "The Hound",
+    "family": "House Clegane",
+    "imageUrl": "https://thronesapi.com/assets/images/the-hound.jpg"
+  },
+  {
+    "id": "16",
+    "fullName": "Petyr Baelish",
+    " title": "Littlefinger",
+    "family": "House Bealish",
+    "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg"
+  },
+  {
+    "id": "17",
+    "fullName": "Davos Seaworth",
+    " title": "The Onion Knight",
+    "family": "House Seaworth",
+    "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png"
+  },
+  {
+    "id": "18",
+    "fullName": "Stannis Baratheon",
+    " title": "Lord of Dragonstone",
+    "family": "House Barathoen",
+    "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
+  },
+  {
+    "id": "19",
+    "fullName": "Varys",
+    " title": "Master of Whisperers",
+    "family": "None",
+    "imageUrl": "https://thronesapi.com/assets/images/varys.jpg"
   }
 ]
