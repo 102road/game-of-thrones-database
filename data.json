@@ -52,7 +52,7 @@
     "id": "7",
     "fullName": "Robert Baratheon",
     "title": "Lord of the Seven Kingdoms",
-    "family": "House Barathoen",
+    "family": "House Baratheon",
     "imageUrl": "https://thronesapi.com/assets/images/king-robert.jpg"
   },
   {
@@ -94,7 +94,7 @@
     "id": "13",
     "fullName": "Joffrey Baratheon",
     " title": "Lord of the Seven Kingdoms",
-    "family": "House Barathoen",
+    "family": "House Baratheon",
     "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg"
   },
   {
@@ -129,7 +129,7 @@
     "id": "18",
     "fullName": "Stannis Baratheon",
     " title": "Lord of Dragonstone",
-    "family": "House Barathoen",
+    "family": "House Baratheon",
     "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
   },
   {
@@ -138,5 +138,197 @@
     " title": "Master of Whisperers",
     "family": "None",
     "imageUrl": "https://thronesapi.com/assets/images/varys.jpg"
+  },{
+    "id": "20",
+    "fullName": "Khal Drogo",
+    " title": "Khal",
+    "family": "House Targaryen",
+    "imageUrl": "https://thronesapi.com/assets/images/khal-drogo.jpg"
+  },{
+    "id": "21",
+    "fullName": "Margaery Tyrell",
+    " title": "Queen of the Seven Kingdoms",
+    "family": "House Tyrell",
+    "imageUrl": "https://thronesapi.com/assets/images/margaery-tyrell.jpg"
+  },{
+    "id": "22",
+    "fullName": "Ygritte",
+    " title": "Spearwife",
+    "family": "Wildlings",
+    "imageUrl": "https://thronesapi.com/assets/images/ygritte.jpg"
+  },{
+    "id": "23",
+    "fullName": "Brienne of Tarth",
+    " title": "Lady Brienne",
+    "family": "House Tarth",
+    "imageUrl": "https://thronesapi.com/assets/images/brienne-tarth.jpeg"
+  },{
+    "id": "24",
+    "fullName": "Missandei",
+    " title": "Queen's Personal Advisor",
+    "family": "Naathi",
+    "imageUrl": "https://thronesapi.com/assets/images/missandei.jpeg"
+  },{
+    "id": "25",
+    "fullName": "Gilly",
+    " title": "The Rabbit Killer",
+    "family": "Wildlings",
+    "imageUrl": "https://thronesapi.com/assets/images/gilly.jpg"
+  },{
+    "id": "26",
+    "fullName": "Viserys Targaryan",
+    " title": "The Beggar King",
+    "family": "House Targaryen",
+    "imageUrl": "https://thronesapi.com/assets/images/viserys-targaryan.jpg"
+  },{
+    "id": "27",
+    "fullName": "Rickon Stark",
+    " title": "Lord of Winterfell",
+    "family": "House Stark",
+    "imageUrl": "https://thronesapi.com/assets/images/rickon.jpg"
+  },{
+    "id": "28",
+    "fullName": "Roose Bolton",
+    " title": "Lord of the Dreadfort",
+    "family": "House Bolton",
+    "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg"
+  },{
+    "id": "29",
+    "fullName": "Daario Naharis",
+    " title": "Commander of the Stormcrows",
+    "family": "Naharis",
+    "imageUrl": "https://thronesapi.com/assets/images/daario.jpg"
+  },{
+    "id": "30",
+    "fullName": "Shae",
+    " title": "Whore",
+    "family": "Lorathi",
+    "imageUrl": "https://thronesapi.com/assets/images/shae.jpg"
+  },{
+    "id": "31",
+    "fullName": "Tommen",
+    " title": "Prince",
+    "family": "House Baratheon",
+    "imageUrl": "https://thronesapi.com/assets/images/tommen.jpg"
+  },{
+    "id": "32",
+    "fullName": "Gendry Baratheon",
+    " title": "Lord of Storm's End",
+    "family": "House Baratheon",
+    "imageUrl": "https://thronesapi.com/assets/images/gendry.jpg"
+  },{
+    "id": "33",
+    "fullName": "Jorah Mormont",
+    " title": "Knight",
+    "family": "House Mormont",
+    "imageUrl": "https://thronesapi.com/assets/images/jorah-mormont.jpg"
+  },{
+    "id": "34",
+    "fullName": "Bronn of the Blackwater",
+    " title": "Lord of Highgarden",
+    "family": "None",
+    "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg"
+  },{
+    "id": "35",
+    "fullName": "Ramsey Bolton",
+    " title": "The Bastard of Bolton",
+    "family": "House Bolton",
+    "imageUrl": "https://thronesapi.com/assets/images/ramsey-bolton.jpg"
+  },{
+    "id": "36",
+    "fullName": "Talisa Stark",
+    " title": "Queen Consort",
+    "family": "House Stark",
+    "imageUrl": "https://thronesapi.com/assets/images/talisa-stark.jpg"
+  },{
+    "id": "37",
+    "fullName": "Jeor Mormont",
+    " title": "Lord Commander of the Night's Watch",
+    "family": "House Mormont",
+    "imageUrl": "https://thronesapi.com/assets/images/lord-commander-mormont.jpg"
+  },{
+    "id": "38",
+    "fullName": "The High Sparrow",
+    " title": "High Septon",
+    "family": "Sparrows",
+    "imageUrl": "https://thronesapi.com/assets/images/the-high-sparrow.jpg"
+  },{
+    "id": "39",
+    "fullName": "Oberyn Martell",
+    " title": "Red Viper of Dorne",
+    "family": "Hosue Martell",
+    "imageUrl": "https://thronesapi.com/assets/images/red-viper.jpg"
+  },{
+    "id": "40",
+    "fullName": "Melisandre",
+    " title": "The Red Woman",
+    "family": "Unknown",
+    "imageUrl": "https://thronesapi.com/assets/images/melisandre.jpg"
+  },{
+    "id": "41",
+    "fullName": "Jaqen H'ghar",
+    " title": "Faceless Man of Braavos",
+    "family": "Lorathi",
+    "imageUrl": "https://thronesapi.com/assets/images/jaqen-hghar.jpg"
+  },{
+    "id": "42",
+    "fullName": "Tywin Lannister",
+    " title": "Lord Paramount of Westerlands",
+    "family": "House Lannister",
+    "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg"
+  },{
+    "id": "43",
+    "fullName": "Ellaria Sand",
+    " title": "The Red Viper's Paramour",
+    "family": "Sand",
+    "imageUrl": "https://thronesapi.com/assets/images/ellaria-sand.jpg"
+  },{
+    "id": "44",
+    "fullName": "Tormund Giantsbane",
+    " title": "Free Folk Warrior",
+    "family": "Wildlings",
+    "imageUrl": "https://thronesapi.com/assets/images/tormund-giantsbane.jpg"
+  },{
+    "id": "45",
+    "fullName": "Yara Greyjoy",
+    " title": "Lady of the Iron Islands",
+    "family": "House Greyjoy",
+    "imageUrl": "https://thronesapi.com/assets/images/yara-greyjoy.jpg"
+  },{
+    "id": "46",
+    "fullName": "Euron Greyjoy",
+    " title": "King of the Iron Islands",
+    "family": "House Greyjoy",
+    "imageUrl": "https://thronesapi.com/assets/images/euron-greyjoy.jpg"
+  },{
+    "id": "47",
+    "fullName": "Hodor",
+    " title": "Hodor",
+    "family": "Hodor",
+    "imageUrl": "https://thronesapi.com/assets/images/hodor.jpg"
+  },{
+    "id": "48",
+    "fullName": "Grand Maester Pycelle",
+    " title": "Grand Maester of the Seven Kingdoms",
+    "family": "Maesters",
+    "imageUrl": "https://thronesapi.com/assets/images/pycelle.jpg"
+  },{
+    "id": "49",
+    "fullName": "Grey Worm",
+    " title": "Commander of the Unsullied",
+    "family": "None",
+    "imageUrl": "https://thronesapi.com/assets/images/greyworm.jpg"
+  },{
+    "id": "50",
+    "fullName": "Olenna Tyrell",
+    " title": "Queen of Thorns",
+    "family": "House Tyrell",
+    "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg"
+  },{
+    "id": "51",
+    "fullName": "Qyburn",
+    " title": "Master of Whisperers",
+    "family": "Maester",
+    "imageUrl": "https://thronesapi.com/assets/images/qyburn.jpg"
   }
 ]
