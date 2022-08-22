@@ -9,6 +9,8 @@ app.use(express.json());
 app.use(bp.json());
 app.use(bp.urlencoded({ extended: true }));
 
+//GET functions 
+
 app.get("/", (req, res) => {
   const result = JSON.parse(fs.readFileSync("./data.json"));
   res.send(result);
@@ -19,18 +21,20 @@ app.get("/results", (req, res) => {
   res.json(result);
 });
 
+// POST functions
+
 app.post("/", (req, res) => {
+  
   const character = req.headers.fullname;
 
   const data = JSON.parse(fs.readFileSync("./results.json"));
-
-  console.log(data[character]);
 
   data[character] = data[character] + 1;
 
   fs.writeFileSync("./results.json", JSON.stringify(data), "utf-8", (err) => {
     console.log(err);
   });
+  
   res.sendStatus(200);
 });
 
