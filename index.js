@@ -16,27 +16,22 @@ app.get("/", (req, res) => {
 
 app.get("/results", (req, res) => {
   const result = JSON.parse(fs.readFileSync("./results.json"));
-  res.send(result);
+  res.json(result);
 });
 
 app.post("/", (req, res) => {
-  const character = req.headers.id;
-  const data = JSON.parse(fs.readFileSync("./results.json"));
-  data.character = data.character + 1;
-  fs.writeFileSync("./results.json", data);
-});
+  const character = req.headers.fullname;
 
-app.post("/hi", (req, res) => {
-  const result = JSON.parse(fs.readFileSync("./data.json"));
-  let object = {};
-  result.forEach((element) => {
-    object.element.fullName = 0;
+  const data = JSON.parse(fs.readFileSync("./results.json"));
+
+  console.log(data[character]);
+
+  data[character] = data[character] + 1;
+
+  fs.writeFileSync("./results.json", JSON.stringify(data), "utf-8", (err) => {
+    console.log(err);
   });
-  fs.writeFileSync("./results.json", object, "utf-8", (err) => {
-    if (err) {
-      console.log("There was an error when attempting to add new user", err);
-    }
-  });
+  res.sendStatus(200);
 });
 
 app.listen(4000, () => {
