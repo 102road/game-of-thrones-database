@@ -38,6 +38,6 @@ app.post("/", (req, res) => {
   res.sendStatus(200);
 });
 
-app.listen(4000, () => {
+app.listen(process.env.port || 4000, () => {
   console.log("App is listening");
 });
